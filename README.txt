@@ -3,10 +3,8 @@ Restaurant Management System
 The Program is written in C++ and uses standard libraries and functionalities
 of C++.
 
-1) Extract the rar file.
-2) You will get a folder named DSA inside there you will get a 
-DSA_Project_Restaurant_Management_System exe app. 
-3) Run it.
+1) Download all the files.
+2) Run it.
 DONE.
 
 PS: The command window might initially be of a small size and thus
