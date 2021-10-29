@@ -1,0 +1,2 @@
+# Restaurant-Management-system
+Created a restaurant management system with both backend and frontend management. The project consists of 3 panels: admin, customer and kitchen. The admin panel has access to edit the menu and keeps track of the total sales of the day. The customer panel is for the user to order items and edit their cart accordingly. The kitchen panel sorts the entire order in a particular sequence of serving.
